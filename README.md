@@ -1,4 +1,4 @@
-# LottoMachine 
+# Lotto - application that calculates how many years it takes to win a lottery jackpot
 
 An application that imitates weekly lottery. 
 
