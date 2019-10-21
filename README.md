@@ -26,7 +26,7 @@ Project is created with:
 * In command-line: `javac src/fi/tuni/tamk/tiko/salter/Main.java`
 
 <br>__Run:__
-* In command-line: `java src/fi/tuni/tamk/tiko/salter/Main´
+* In command-line: `java src/fi/tuni/tamk/tiko/salter/Main`
 
 ## Features
 * Three different types of lottery
