@@ -1,6 +1,6 @@
-# Lotto - application that calculates how many years it takes to win a lottery jackpot
+# Lotto
 
-An application that imitates weekly lottery. 
+An application that imitates weekly lottery and calculates how many years it takes to win a jackpot. 
 
 ## Table of Contents
 * [Introduction](#introduction)
