@@ -23,10 +23,10 @@ Project is created with:
 
 ## Install
 * Clone or download the repo
-* In command-line: `javac src/fi/tuni/tamk/tiko/salter/Main.java`
+* In command-line compile with `javac` and dir path
 
 <br>__Run:__
-* In command-line: `java src/fi/tuni/tamk/tiko/salter/Main`
+* In command-line with `java` and dir path
 
 ## Features
 * Three different types of lottery
