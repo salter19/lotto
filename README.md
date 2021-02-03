@@ -8,7 +8,7 @@ An application that imitates weekly lottery and calculates how many years it tak
 * [Technologies](#technologies)
 * [Install](#install)
 * [Features](#features)
-* [API](#api)
+* [The concepts of lottery](#the-concepts-of-lottery)
 
 ## Introduction
 LottoMachine has three optional types of lotto, with different rate of probability. The lottery runs till jackpot is reached in a lifetime (120 years).
@@ -38,8 +38,8 @@ Project is created with:
 * When jackpot is reach, prints out the game statistics
 * Shows how frustratingly unlikely it is to hit the jackpot in one lifetime!
 
-## API
-Some main concepts in application's API:
+## The concepts of lottery
+Some main concepts in this application:
 ### lottoType
 * __regular__
 <br>Number pool's range: 1 - 40
