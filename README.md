@@ -25,9 +25,9 @@ Project is created with:
 * Clone or download the repo
 * In command-line:
   * navigate inside the directory and then `\lotto\src\fi\tuni\tamk\tiko\salter\`
-  * compile with command `javac Main.java`
+  * compile with command `javac Main.java`<br>
 
-<br>__Run:__
+__Run:__
 * In command-line with command `java Main`
 
 ## Features
